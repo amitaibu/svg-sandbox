@@ -1,0 +1,17 @@
+/*
+The main SCSS file for everything, yep
+*/
+
+@import "poole";
+@import "syntax";
+@import "lanyon";
+
+
+.wrap {
+  background-color: beige;
+}
+
+.posts object  {
+  padding: 20px;
+  border: 1px solid black;
+}

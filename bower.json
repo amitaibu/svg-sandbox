@@ -1,0 +1,7 @@
+{
+  "name": "svg-sandbox",
+  "version": "0.0.0",
+  "dependencies": {
+    "vivus": "~0.2.1"
+  }
+}
