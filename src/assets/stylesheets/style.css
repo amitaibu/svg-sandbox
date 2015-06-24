@@ -1,5 +1,5 @@
 /*
-The main SCSS file for everything, yep
+The main SCSS file for everything
 */
 /*
  *                        ___
@@ -923,6 +923,12 @@ a.pagination-item:hover {
   background-color: #8f5536; }
 .theme-base-0f .container a, .theme-base-0f .sidebar-toggle, .theme-base-0f .related-posts li a:hover {
   color: #8f5536; }
+
+h1 {
+  font-family: 'Abril Fatface';
+  color: #e27058;
+  font-size: 5rem;
+  text-align: center; }
 
 .wrap {
   background-color: beige; }

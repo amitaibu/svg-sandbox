@@ -1,10 +1,19 @@
 /*
-The main SCSS file for everything, yep
+The main SCSS file for everything
 */
+
+$gizra-orange: #e27058;
 
 @import "poole";
 @import "syntax";
 @import "lanyon";
+
+h1 {
+  font-family: 'Abril Fatface';
+  color: $gizra-orange;
+  font-size: 5rem;
+  text-align: center;
+}
 
 
 .wrap {
